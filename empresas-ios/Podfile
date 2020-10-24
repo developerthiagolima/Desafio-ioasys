@@ -1,0 +1,8 @@
+platform :ios, "11.0"
+use_frameworks!
+
+target 'empresas-ios' do
+    pod 'Alamofire' #5.2.2
+    pod 'MBProgressHUD' #1.2.0
+    pod 'SDWebImage' #5.9.4
+end
